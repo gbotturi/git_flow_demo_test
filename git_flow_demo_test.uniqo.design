@@ -1,0 +1,17 @@
+Project:
+ Name: git_flow_demo_test_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 8.0.0.0
+ Dependencies:
+  2:
+   Uri: git_flow_demo_test
+   RelativePath: git_flow_demo_test.uniqo
+  3:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.0.0.0
+ Nodes: []
