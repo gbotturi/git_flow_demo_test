@@ -15,4 +15,4 @@ Children:
   - Name: Speed
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 110
+    Value: 80
