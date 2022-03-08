@@ -19,8 +19,8 @@ Children:
   - Name: Speed
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 99
+    Value: 88
   - Name: Acceleration
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 900
+    Value: 1
