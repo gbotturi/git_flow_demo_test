@@ -7,3 +7,12 @@ QPlatform.UI: from 43.1.0.0 to 43.2.0.0
 No potential breaking changes detected
 
 
+Project C:\Users\GBOTTURI\Documents\ASEM\UNIQO\Projects\git_flow_demo_test\git_flow_demo_test.uniqo upgraded on 11-03-2022 14:50:27.067
+
+Upgraded modules:
+QPlatform.NativeUI: from 26.2.0.0 to 26.3.0.0
+QPlatform.UI: from 43.2.0.0 to 43.3.0.0
+
+No potential breaking changes detected
+
+
